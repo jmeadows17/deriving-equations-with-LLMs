@@ -1,5 +1,4 @@
-# generating-math-reasoning
-Generating math reasoning with language models
+Paper: TBA
 
 Best base model: https://huggingface.co/jmeadows17/MathT5-base
 
