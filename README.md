@@ -1,8 +1,10 @@
 Paper: TBA
 
-Best base model: https://huggingface.co/jmeadows17/MathT5-base
+LLaMa-3.1-8B QLoRA: https://huggingface.co/jmeadows17/DerivationGeneration8B
 
-Best large model: https://huggingface.co/jmeadows17/MathT5-large
+Best T5-base model: https://huggingface.co/jmeadows17/MathT5-base
+
+Best T5-large model: https://huggingface.co/jmeadows17/MathT5-large
 
 Other fine-tuned models: https://drive.google.com/drive/folders/1cLy_UhJf9kEN4tKrr8M9DcBQVQotgf58?usp=sharing
 
