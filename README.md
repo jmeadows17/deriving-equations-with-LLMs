@@ -11,3 +11,5 @@ Other fine-tuned models: https://drive.google.com/drive/folders/1cLy_UhJf9kEN4tK
 Other data including training set: https://drive.google.com/drive/folders/1an_7TYO_V8U9lFHuesN-ZIBplAYcdJmo?usp=sharing
 
 For 100 evaluation examples including prompts, ground truth derivations, model generations, and perturbations, download the ```*_results.json``` datasets.
+
+To generate your own synthetic data run ```derivation_generation.py``` with ```sympy==1.5.1```. 
