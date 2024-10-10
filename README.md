@@ -1,6 +1,8 @@
 Paper: TBA
 
-LLaMa-3.1-8B QLoRA: https://huggingface.co/jmeadows17/DerivationGeneration8B
+LLaMa-3.1-8B QLoRA: https://huggingface.co/jmeadows17/DerivationGeneration8B trained using ```llama_3.1_qlora_sft.py```.
+
+A customisable "from scratch" LLaMa-2/3 archtecture training script from randomly initialised weights is given in ```custom_llama_3_training.py```. 
 
 Best T5-base model: https://huggingface.co/jmeadows17/MathT5-base
 
